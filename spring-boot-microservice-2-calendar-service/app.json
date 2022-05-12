@@ -1,0 +1,8 @@
+{
+  "name": "emr-microservice-2-transaction",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
